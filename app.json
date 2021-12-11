@@ -1,11 +1,11 @@
 {
-    "name": "Liza-Mwol",
+    "name": "LIZA",
     "description": "Liza Mwol is the Modified Version of WhatsAsena, Made By @Chunkinde_padayali with Baileys.",
     "logo": "https://i.imgur.com/2nYs8dN.jpg",
     "keywords": ["whatsapp", "userbot", "Liza", "WhatsAsena", "mwol", "bot", "ai"],
-    "repository": "https://github.com/Chunkindepadayali/LIZA-MWOL",
-    "website":   "https://github.com/Chunkindepadayali/LIZA-MWOL",
-    "success_url": "https://github.com/Chunkindepadayali/LIZA-MWOL",
+    "repository": "https://github.com/cgluttappi /LIZA",
+    "website":   "https://github.com/cgluttappi /LIZA",
+    "success_url": "https://github.com/cgluttappi /LIZA",
     "stack": "container",
     "env": {
         "LIZA_SESSION": {
@@ -190,7 +190,7 @@
         "LOGO_NAME": {
             "description": "Set the logo list name",
             "required": true,
-            "value": "ꪶ͢ɪͥᴛͭsᷤ ͢ᴍͫᴇͤᡃ⃝ʟɪᴢᴀ ᴍᴏʟ࿐"
+            "value": "ꪶ͢ɪͥᴛͭsᷤ ͢ᴍͫᴇͤᡃ⃝ʟɪᴢᴀ ࿐"
         },
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.",
