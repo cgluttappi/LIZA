@@ -25,7 +25,7 @@ Project created by <a href="https://github.com/cgluttappi">LIZA</a> to make it p
   
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cgluttappi/LIZA) 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Chunkindepadayali/LIZAMOWL?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@chunkindepadayali/LizaMwol?v=1)
   
 ### The Hard Method
 ```js
